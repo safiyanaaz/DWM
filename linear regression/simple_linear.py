@@ -9,7 +9,7 @@ Topic:Implementation of Simple Linear regression.
 
 import numpy as np
 import pandas as pd
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 
 dataset=pd.read_csv('Salary_Data.csv')     #imporing our dataset using pandas
